@@ -6,5 +6,7 @@ db = mysql.connector.connect(
     passwd = ""
 )
 
-if db.is_connected():
-    print("Berhasil terhubung ke database...")
+cursor = db.cursor()
+cursor.execute("CREATE DATABASE shop")
+
+print("Database berhasil dibuat !")

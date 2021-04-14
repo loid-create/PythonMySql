@@ -6,6 +6,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="connect.*" />
+          <option value="create_db.*" />
         </list>
       </option>
     </inspection_tool>

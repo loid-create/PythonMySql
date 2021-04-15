@@ -7,6 +7,8 @@
         <list>
           <option value="connect.*" />
           <option value="create_db.*" />
+          <option value="create_table.mysql" />
+          <option value="create_table.print" />
         </list>
       </option>
     </inspection_tool>

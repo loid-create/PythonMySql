@@ -9,6 +9,8 @@
           <option value="create_db.*" />
           <option value="create_table.mysql" />
           <option value="create_table.print" />
+          <option value="insert_one.print" />
+          <option value="insert_one.mysql" />
         </list>
       </option>
     </inspection_tool>
